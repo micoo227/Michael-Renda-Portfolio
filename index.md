@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Stygian Demo
 
-ok
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Embedded below is a demo of my game/level developed for my high school capstone. It was created in Unreal Engine 4, and modeled in 3D using Blender.
 
 ### Markdown
 
