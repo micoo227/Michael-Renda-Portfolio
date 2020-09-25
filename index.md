@@ -2,7 +2,7 @@
 
 Embedded below is a demo of my game/level "Stygian", which was developed for my high school capstone. It was created in Unreal Engine 4, and modeled in 3D using Blender.
 
-<iframe width="768" height="432" src="https://www.youtube.com/embed/PZL_545LweY&" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/PZL_545LweY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Markdown
 
