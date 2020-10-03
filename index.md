@@ -4,34 +4,10 @@ Embedded below is a demo of my game/level "Stygian", which was developed for my 
 
 <iframe width="768" height="432" src="https://www.youtube.com/embed/PZL_545LweY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Markdown
+### Blender Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here are some of the objects that I modeled and textured in 3D using Blender:
 
-```markdown
-Syntax highlighted code block
+<iframe src="https://giphy.com/embed/TnHGF4DKXyj6EBV4jK" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TnHGF4DKXyj6EBV4jK">via GIPHY</a></p>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/micoo227/Michael-Renda-Stygian/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe src="https://giphy.com/embed/AuigKzuenESoLngxsr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/AuigKzuenESoLngxsr">via GIPHY</a></p>
