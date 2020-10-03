@@ -8,7 +8,7 @@ Embedded below is a demo of my game/level "Stygian", which was developed for my 
 
 ### Blender Projects
 
-Here are some of the objects that I modeled and textured in 3D using Blender:
+Here are some other objects that I modeled and textured in 3D using Blender:
 
 <iframe src="https://giphy.com/embed/TnHGF4DKXyj6EBV4jK" width="768" height="432" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TnHGF4DKXyj6EBV4jK">via GIPHY</a></p>
 
