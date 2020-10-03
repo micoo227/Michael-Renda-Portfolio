@@ -1,6 +1,6 @@
 ## Welcome!
 
-## Stygian Demo
+### Stygian Demo
 
 Embedded below is a demo of my game/level "Stygian", which was developed for my high school capstone. It was created in Unreal Engine 4, and modeled/animated in 3D using Blender.
 
