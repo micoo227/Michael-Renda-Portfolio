@@ -8,13 +8,13 @@ Embedded below is a demo of my game/level "Stygian", which was developed for my 
 
 ### Building Escape UE4 Project
 
-This game is the product of a Udemy course I took in the past, named "Unreal Engine C++ Developer: Learn C++ and Make Video Games". Within this game, you are tasked with figuring out how to escape a locked room. There are also multiple objects that can be carried and dropped by using the left mouse button. Essentially, one can escape the room by moving items into the blue spotlight (as shown in video below) such that their combined mass triggers the doors to open.
+This game is the product of a Udemy course I took in the past, named "Unreal Engine C++ Developer: Learn C++ and Make Video Games". Within this game, you are tasked with figuring out how to escape a locked room. There are also multiple objects that can be carried and dropped by using the left mouse button. Essentially, one can escape the room by moving items into the blue spotlight (as shown in video below) such that their combined mass triggers the doors to open. (Code and other assets are located in the "Building-Escape-Project" branch at the GitHub link above.)
 
 <iframe width="768" height="432" src="https://www.youtube.com/embed/RC53nckWIDc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Battle Tank UE4 Project (unfinished)
 
-Here is another project that I worked on through the Udemy course mentioned above. However, the project that was previously in the course is now in one entitled "Unreal Engine C++ Developer Archived Course", as the creators recently revamped their content. Although I have not finished this game, the point of it is to battle against AI tanks in an open-world landscape.
+Here is another project that I worked on through the Udemy course mentioned above. However, the project that was previously in the course is now in one entitled "Unreal Engine C++ Developer Archived Course", as the creators recently revamped their content. Although I have not finished this game, the point of it is to battle against AI tanks in an open-world landscape. (Code and other assets are located in the "Battle-Tank-Project" branch at the GitHub link above.)
 
 <iframe width="768" height="432" src="https://www.youtube.com/embed/I7oXS4wX-TE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
