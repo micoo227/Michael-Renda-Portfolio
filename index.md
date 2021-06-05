@@ -1,5 +1,11 @@
 ## Welcome!
 
+### Newton's Gumball Rally
+
+Newton's Gumball Rally is an educational STEM game made for kids in grades 2-5. 
+
+
+
 ### Game Jam Project
 
 Embedded below is a short playthrough of my group's submission for a class Hackathon. I worked with 4 other people to complete this game in roughly 72 hours, and received first place by a panel of judges. Additionally, we had to fit our game into the theme of being "stuck in a loop," so we decided on a 2D infinite side-scroller where the player runs away from demons and dodges obstacles for as long as possible.
