@@ -1,5 +1,11 @@
 ## Welcome!
 
+### Game Jam Project
+
+Embedded below is a short playthrough of my group's submission for a class Hackathon. I worked with 4 other people to complete this game in roughly 72 hours, and received first place by a panel of judges. Additionally, we had to fit our game into the theme of being "stuck in a loop," so we decided on a 2D infinite side-scroller where the player runs away from demons and dodges obstacles for as long as possible.
+
+<iframe width="768" height="432" src="https://www.youtube.com/embed/lQdEzZ6Il5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Stygian Demo
 
 Embedded below is a demo of my game/level "Stygian", which was developed for my high school capstone. It was created in Unreal Engine 4 (coded mainly via Blueprint), and modeled/animated in 3D using Blender. Additionally, in-game texturing was completed within UE4.
