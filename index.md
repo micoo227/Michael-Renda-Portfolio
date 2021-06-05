@@ -28,7 +28,7 @@ Here is another project that I worked on through the Udemy course mentioned abov
 
 Here are some other objects that I modeled and textured in 3D using Blender:
 
-![image](https://raw.githubusercontent.com/micoo227/Michael-Renda-Portfolio/pages/blender_sword.png)
+![image](https://raw.githubusercontent.com/micoo227/Michael-Renda-Portfolio/pages/blender%20sword.png)
 
 <iframe src="https://giphy.com/embed/TnHGF4DKXyj6EBV4jK" width="768" height="432" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TnHGF4DKXyj6EBV4jK">via GIPHY</a></p>
 
