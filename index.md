@@ -4,11 +4,11 @@
 
 Newton's Gumball Rally is an educational STEM game that I along with 3 other team members completed for kids in grades 2-5. We developed this game in one semester for our _Computational Media: Videogame Development_ class at Wesleyan University, which is taught by the founder of Bethesda Softworks, Christopher Weaver. Additionally, I worked on the music, code, levels, and business plan for the game, and utilized corporate work strategies such as Gantt charts, scrum meetings, and sprints (in intervals of 2 weeks) to produce an enjoyable and pedagogic product at the end of the term.
 
-High Concept:
+High Concept:<br/>
 _Newton’s Gumball Rally incorporates the colorful visual of gumballs racing through courses to teach kids about the  mechanics of six classic simple machines. Players have to use combinations of simple machines to make the most efficient track, keeping in mind time and budget constraints._
 
-Play it here: https://cellardoor2147.itch.io/newtons-gumball-ralley
-Public repo: https://github.com/cellardoor2147/newtons-gumball-ralley
+Play it here: https://cellardoor2147.itch.io/newtons-gumball-ralley<br/>
+Public repo: https://github.com/cellardoor2147/newtons-gumball-ralley<br/>
 
 ![image](https://raw.githubusercontent.com/micoo227/Michael-Renda-Portfolio/pages/NGR_Level.png)
 
