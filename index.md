@@ -2,13 +2,19 @@
 
 ### Newton's Gumball Rally
 
-Newton's Gumball Rally is an educational STEM game made for kids in grades 2-5. 
+Newton's Gumball Rally is an educational STEM game that I along with 3 other team members completed for kids in grades 2-5. We developed this game in one semester for our _Computational Media: Videogame Development_ class at Wesleyan University, which is taught by the founder of Bethesda Softworks, Christopher Weaver. Additionally, I worked on the music, code, levels, and business plan for the game, and utilized corporate work strategies such as Gantt charts, scrum meetings, and sprints (in intervals of 2 weeks) to produce an enjoyable and pedagogic product at the end of the term.
+
+High Concept:
+_Newton’s Gumball Rally incorporates the colorful visual of gumballs racing through courses to teach kids about the  mechanics of six classic simple machines. Players have to use combinations of simple machines to make the most efficient track, keeping in mind time and budget constraints._
+
+Play it here: https://cellardoor2147.itch.io/newtons-gumball-ralley
+Public repo: https://github.com/cellardoor2147/newtons-gumball-ralley
 
 ![image](https://raw.githubusercontent.com/micoo227/Michael-Renda-Portfolio/pages/NGR_Level.png)
 
 ### Game Jam Project
 
-Embedded below is a short playthrough of my group's submission for a class Hackathon. I worked with 4 other people to complete this game in roughly 72 hours, and received first place by a panel of judges. Additionally, we had to fit our game into the theme of being "stuck in a loop," so we decided on a 2D infinite side-scroller where the player runs away from demons and dodges obstacles for as long as possible.
+Embedded below is a short playthrough of my group's submission for a class Hackathon. I worked with 4 other people to complete this game in roughly 72 hours, and received first place by a panel of judges. Additionally, we were required to fit our game into the theme of being "stuck in a loop," so we decided on a 2D infinite side-scroller where the player runs away from demons and dodges obstacles for as long as possible.
 
 <iframe width="768" height="432" src="https://www.youtube.com/embed/lQdEzZ6Il5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
