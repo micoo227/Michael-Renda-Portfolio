@@ -4,7 +4,7 @@
 
 Newton's Gumball Rally is an educational STEM game made for kids in grades 2-5. 
 
-
+![image](https://raw.githubusercontent.com/micoo227/Michael-Renda-Portfolio/pages/NGR_Level.png)
 
 ### Game Jam Project
 
