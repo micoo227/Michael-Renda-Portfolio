@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
-description: "This portfolio includes various projects that I have completed/worked on in the past!"
+description: "This portfolio includes various projects that I have completed/worked on in the past! Click the button below to see all of my repositories."
+github:
+  repository_url: https://github.com/micoo227?tab=repositories
