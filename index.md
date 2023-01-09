@@ -1,5 +1,3 @@
-## Welcome!
-
 ### Newton's Gumball Rally
 
 Newton's Gumball Rally is an educational STEM game that I along with 3 other team members completed for kids in grades 2-5. We developed this game in one semester for our _Computational Media: Videogame Development_ class at Wesleyan University, which is taught by the founder of Bethesda Softworks, Christopher Weaver. Additionally, I worked on the music, code, levels, and business plan for the game, and utilized corporate work strategies such as Gantt charts, scrum meetings, and sprints (in intervals of 2 weeks) to produce an enjoyable and pedagogic product at the end of the term.
